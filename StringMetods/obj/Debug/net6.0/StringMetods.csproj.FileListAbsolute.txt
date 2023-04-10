@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\bin\Debug\net6.0\StringMetods.exe
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\bin\Debug\net6.0\StringMetods.deps.json
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\bin\Debug\net6.0\StringMetods.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\bin\Debug\net6.0\StringMetods.dll
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\bin\Debug\net6.0\StringMetods.pdb
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.dll
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\refint\StringMetods.dll
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.pdb
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\StringMetods.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\StringMetods\StringMetods\obj\Debug\net6.0\ref\StringMetods.dll
